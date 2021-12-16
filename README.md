@@ -12,7 +12,8 @@ Estou bem afastado do Github, mas vou voltar com força total em 2022!!
 
 ##
 
-[![Comino's GitHub stats](https://github-readme-stats.vercel.app/api?username=lcomino&theme=midnight-purple)](https://github.com/lcomino/github-readme-stats)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lcomino&layout=compact&theme=midnight-purple" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcomino&layout=compact&langs_count=7&theme=midnight-purple"/>
 
 ##
 
